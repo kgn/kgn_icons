@@ -4,7 +4,7 @@ choplist = 'icons.choplist'
 icons = (
     ('green', 'add', 'up', 'down', 'check'),
     ('blue', 'refresh', 'revert', 'question', 'information', 'active'),
-    ('red', 'deny', 'remove', 'delete', 'exclamation'),
+    ('red', 'deny', 'remove', 'delete', 'exclamation', 'notification'),
     ('sign', 'push', 'pull', 'merge', 'branch', 'block', 'pause', 'warning'),
     ('window', 'terminal', 'revision', 'diff', 'compare', 'appearance', 'quicklook'),
     ('file', 'commit_file', 'remove_file', 'commit_files', 'add_remove_files', 'watch_file', 'attach_files'),
